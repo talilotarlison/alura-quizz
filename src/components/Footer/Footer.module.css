@@ -1,0 +1,12 @@
+.footerAlura{
+    display: flex;
+    flex-direction: row;
+    gap: 22px;
+
+    margin-top: 20px;
+}
+
+footer > p {
+    font-weight: bolder;
+    font-size: 14px;
+}

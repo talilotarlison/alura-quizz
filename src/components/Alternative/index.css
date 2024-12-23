@@ -1,0 +1,15 @@
+.component {
+    display: flex;
+    background-color: rgb(63 81 181 / 20%);
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: opacity .2s;
+    border-radius: 4px;
+    margin: 5px 0;
+    gap: 5px;
+  }
+
+  .component:hover,
+.component:focus {
+  opacity: .6;
+}
